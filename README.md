@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kluck911.
+- 👋 Hi, I’m Hena.
 - 👀 I’m interested in QA or AQA pozition.
 - 🌱 I have completed QA courses. In this space you can find my work.
 
