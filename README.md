@@ -7,6 +7,8 @@ Check lists, test cases, bag reports:
  - <a href="https://docs.google.com/spreadsheets/d/1QqglYyPjCczxcsNgPnIfXB9otaDTOAbIzRc8t2QnFc8/edit?usp=sharing"> example of testing for a web application</a>
  - <a href="https://docs.google.com/spreadsheets/d/1bndkipMyHYKfSepYJViF7QLrm37ugjHT3UDYm1OxCGo/edit?usp=sharing"> example of testing for a game </a>
 
+<a href="https://github.com/Kluck911/Postman_collections"> Postman collection </a>
+
 
 ---
 
