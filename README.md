@@ -1,4 +1,5 @@
-- 👋 Hi, my name is Hena.
+- 👋 Hi, my name is Hena. 
+<a href="https://drive.google.com/file/d/1gvu7NMdbLOEyTGAspQiXZhyO8gIhr0gN/view?usp=sharing"> My CV </a>, 
 - 👀 I’m interested in QA or AQA pozition.
 - 🌱 I have completed QA courses. In this space you can find my work.
 
@@ -24,8 +25,7 @@ Automated tests:
 
 ---
 Contacts:
-
-<a href="https://drive.google.com/file/d/1gvu7NMdbLOEyTGAspQiXZhyO8gIhr0gN/view?usp=sharing"> CV </a>, <a href="https://t.me/H_Zavadski"> Telegram </a>, <a href="https://www.linkedin.com/in/henadzizavadski/"> LinkedIn </a>
+<a href="https://t.me/H_Zavadski"> Telegram </a>, <a href="https://www.linkedin.com/in/henadzizavadski/"> LinkedIn </a>
 
 
 <a href="mailto: hzavadski@gmail.com">hzavadski@gmail.com</a>
