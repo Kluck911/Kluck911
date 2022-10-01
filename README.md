@@ -9,6 +9,18 @@ Check lists, test cases, bag reports:
 
 <a href="https://github.com/Kluck911/Postman_collections"> Postman collection </a>
 
+---
+
+Telegram bot:
+
+<a href="https://github.com/Kluck911/Currency_converter"> Currency_converter </a>
+
+Automated tests:
+
+<a href="https://github.com/Kluck911/PetFriends_API_Test"> API </a>
+
+<a href="https://github.com/Kluck911/PetFrends_Web_tests"> WEB </a>
+
 
 ---
 
