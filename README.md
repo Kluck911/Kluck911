@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Hena. 
 <a href="https://drive.google.com/file/d/1gvu7NMdbLOEyTGAspQiXZhyO8gIhr0gN/view?usp=sharing"> My CV</a>. 
 - 👀 I’m interested in QA or AQA pozition.
-- 🌱 I have completed QA courses. In this space you can find my work.
+- 🌱 I have completed QA courses. In this space you can find examples of my work.
 
 Check lists, test cases, bag reports:
 
