@@ -5,8 +5,10 @@
 
 Check lists, test cases, bag reports:
 
- - <a href="https://docs.google.com/spreadsheets/d/1QqglYyPjCczxcsNgPnIfXB9otaDTOAbIzRc8t2QnFc8/edit?usp=sharing"> example of testing for a web application</a>
  - <a href="https://docs.google.com/spreadsheets/d/1bndkipMyHYKfSepYJViF7QLrm37ugjHT3UDYm1OxCGo/edit?usp=sharing"> example of testing for a game </a>
+ - <a href="https://docs.google.com/spreadsheets/d/10L3z7vV6wZXB2UdpvbhyjrmDLIRKctwh8Xda8ISJe-Y/edit?usp=sharing"> example of testing for a mobile game </a>
+ - <a href="https://docs.google.com/spreadsheets/d/1Bf9WOAtNq6GiC-Q7HE-vJhj473yzr_cqssYfy1jaSzg/edit?usp=sharing"> example of testing for a mobile app </a>
+
 
 <a href="https://github.com/Kluck911/Postman_collections"> Postman collection </a>
 
